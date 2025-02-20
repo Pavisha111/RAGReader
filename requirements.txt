@@ -1,0 +1,9 @@
+marker-pdf
+streamlit
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+llama-index-embeddings-huggingface
+ollama
+llama-index-vector-stores-qdrant
+llama-index-readers-file
+llama-index-embeddings-fastembed
